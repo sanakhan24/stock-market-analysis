@@ -17,7 +17,7 @@ This project applies artificial intelligence techniques to analyze historical st
 - **Source**: Kaggle - 9000+ Tickers of Stock Market Data
 - **Size**: 9,000+ stock tickers
 - **Time Period**: 1962 - Present
-- **Features**: Date, Ticker, Open, High, Low, Close, Volume, and derived technical indicators
+- **Features**: Date, Ticker, Open, High, Low, Close, Volume and derived technical indicators
 
 ## 🔍 Key Features
 
