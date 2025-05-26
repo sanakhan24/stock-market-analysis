@@ -35,3 +35,9 @@ This project applies artificial intelligence techniques to analyze historical st
 - **Matplotlib/Seaborn**: Data visualization
 - **Scikit-learn**: Machine learning utilities
 - **MLxtend**: Association rule mining
+
+## 📖 References
+
+- [Kaggle Dataset]([url](https://www.kaggle.com/datasets/jakewright/9000-tickers-of-stock-market-data-full-history/data))
+- [MLxtend Documentation]([url](https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/))
+- [PyTorch LSTM Tutorial]([url](https://machinelearningmastery.com/lstm-for-time-series-prediction-in-pytorch/))
